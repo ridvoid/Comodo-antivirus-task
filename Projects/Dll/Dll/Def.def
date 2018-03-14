@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+LoadSignature=LoadSignature
+ScanMemory=ScanMemory
+ScanFile=ScanFile
